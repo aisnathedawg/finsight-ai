@@ -1,3 +1,14 @@
 fastapi
 uvicorn
 yfinance
+
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-groq
+
+sentence-transformers
+python-dotenv
+
+chromadb
+pydantic
