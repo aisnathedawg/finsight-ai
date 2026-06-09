@@ -1,0 +1,16 @@
+venv311/
+__pycache__/
+*.pyc
+
+.env
+
+*.db
+
+chroma_db/
+
+node_modules/
+dist/
+build/
+
+financials.csv
+data/
