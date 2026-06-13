@@ -1,7 +1,7 @@
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
-from langchain.schema import HumanMessage, SystemMessage
+from langchain_core.schema import HumanMessage, SystemMessage
 from live_data import get_company_financials
 from dotenv import load_dotenv
 import json
