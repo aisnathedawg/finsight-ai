@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import axios from "axios";
 
-const API = "http://localhost:8000";
+const API = "https://aisnathedawg-finsight-ai.hf.space";
 
 function useScramble(target, trigger) {
   const [display, setDisplay] = useState("—");
